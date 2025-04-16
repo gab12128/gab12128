@@ -1,5 +1,5 @@
 <h1 align="center">Óla sou Gabriel</h1>
-<h3 align="center">estudando programador de jogos</h3>
+<h3 align="center">estudando programação de jogos</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gabriel&label=Profile%20views&color=0e75b6&style=flat" alt="gabriel" /> </p>
 
