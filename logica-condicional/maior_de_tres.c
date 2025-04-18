@@ -13,13 +13,13 @@ int main()
     printf("insira terceiro numero: \n");
     scanf("%d", &n3);
     
-    if(n1 > n2 && n3) {
+    if(n1 > n2 && n1 > n3) {
         printf("o primeiro e maior");
         
-       } else if(n2 > n1 && n3) {
+       } else if(n2 > n1 && n2 > n3) {
         printf("o segundo e maior");
         
-    } else if(n3 > n1 && n2) {
+    } else if(n3 > n1 && n3 > n2) {
         printf("o terceiro e maior");
         
     } else {
